@@ -1,4 +1,4 @@
-# Supabase Dumper v2.0
+# Supabase Dumper
 
 A security audit tool that detects misconfigured Supabase projects by scanning for exposed API keys and testing Row Level Security (RLS) policies on database tables.
 
