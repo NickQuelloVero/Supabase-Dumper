@@ -33,8 +33,8 @@ Supabase Dumper performs three phases of analysis on a target website:
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/supabase-dumper.git
-cd supabase-dumper
+git clone https://github.com/nickquellovero/Supabase-Dumper.git
+cd Supabase-Dumper
 ```
 
 Install dependencies:
